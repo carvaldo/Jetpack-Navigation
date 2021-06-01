@@ -1,4 +1,4 @@
-# Android Navigation codelab
+# Jetpack Android Navigation Codelab
 
 Content: https://codelabs.developers.google.com/codelabs/android-navigation/
 
